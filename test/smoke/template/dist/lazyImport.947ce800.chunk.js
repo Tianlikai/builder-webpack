@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack=self.webpackChunkwebpack||[]).push([[834],{209:(e,c,k)=>{function l(){console.log("print world!")}k.r(c),k.d(c,{default:()=>l})}}]);
